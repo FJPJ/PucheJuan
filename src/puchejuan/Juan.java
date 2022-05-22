@@ -12,5 +12,15 @@ public class Juan {
     public static void MuestraMensaje1(){
         System.out.println("Muestro Mensaje");    
     }   
-}
+    public static void resta (){
+        int num1= 8;
+        int num2= 7;
+        int resultado= num1 - num2;
+        System.out.println("El resultado de la suma es "+resultado);
+    }
+    
+    public static void Imprime_una_frase (){
+        System.out.println("Este comando imprime esta frase");
+    }
+}  
 

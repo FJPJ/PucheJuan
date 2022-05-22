@@ -15,12 +15,8 @@ public class PucheJuan {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Puche.MuestraMensaje();
+        Juan.MuestraMensaje1();
     }
-    public class Puche {
     
-    }
-    public class Juan {
-    
-    }
- 
 }
